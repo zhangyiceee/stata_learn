@@ -1,2 +1,2 @@
-# stata_learn
-学习stata教材
+# statagraph
+这个用来练习stata的绘图

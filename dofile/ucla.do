@@ -4,7 +4,7 @@ Data		:	from UCLA
 Created by	:	YiZhang zhangyiceee@163.com
 Last Modify : 	20191010
 *=======================================================*/
-*http://stats.idre.ucla.edu/stata/
+*https://stats.idre.ucla.edu/other/mult-pkg/seminars/
 	clear all 
 	set more off
 ** UCLA IDRE STATA DATA MANAGEMENT SEMINAR***
@@ -85,10 +85,15 @@ Last Modify : 	20191010
 	tab lungcapacity , m
 
 	summ age
-	replace age = .b if age > 120
-	
-
-
+	replace age = .b if age > 120 | age < 18
+	*Report counts of missing values with missyable summarize
+	misstable summarize lungcapacity test1 test2
+	*Profile how variables are missing together(missing data patterns) with misstable patterns
+	misstable patterns
+*Creating and transforming variables
+	*Use generate and replace for simple arithmetic or logical operations
+	gen average = (test1 + test2)/2
+	misstable patterns average test1 test2
 
 
 

@@ -113,10 +113,23 @@
 	save growth2,replace
 	pwd
 *page 47
+	use growth3 , clear
+	list , sepby (provinc2)
+*将该数据转换成宽格式
+	reshape wide grow , i(provinc2) j(year) 
+	list
+*改变数据结构
+	use growth3 , clear
+	list , sepby(provinc2)
+*为每一个省份汇总出不同年份的平均增长率，在分拆数据中，每条观测案例将对应着by()变量的一个取值
+	collapse (mean) grow , by(provinc2)
+	list 
 
-
-
-
+*=======================================================*
+*===================观测案例的加权========================*
+*=======================================================*
+	use nfschool.dta,clear
+	
 
 
 

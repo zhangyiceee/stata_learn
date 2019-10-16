@@ -128,18 +128,65 @@
 *=======================================================*
 *===================观测案例的加权========================*
 *=======================================================*
+	/*stata 接受的四种加权类型：
+	aweight :分析权数，用在加权最小二乘回归
+	fweight :频数权数，用以对重复观测案例计数，频数权数必须是整数
+	iweight :重要性权数，但“重要性”由用户自己定义
+	pweight	:概率或抽样权数，等于观测案例根据抽样策略被选中的概率的倒数
+	*/
 	use nfschool.dta,clear
-	
+	des 
+	list , sep(2)
+
+	tab univers year
+	tabulate univers year [fweight = count]
 
 
 
+*=======================================================*
+*===================生成随即数据和随机样本=================*
+*=======================================================*
+	clear
 
+	*明确得设定种子数能使以后重新得到同样的"随机"结果	
+	clear 	
+	set obs 10 
+	set seed 12345
+	gen random = uniform() 	
+	list
+	gen newvar = 428 * uniform()
 
+	*模拟1000次投掷一个骰子的结果
+	clear
+	set obs 100
+	gen roll = 1 + trunc(6 * uniform())
+	tab roll
 
+	*编制数据管理程序
+	* #delimit来解决命令行宽限制的问题
+
+*3制图 page60
+	*直方图
+	use states,clear
+	des
+	histogram college,frequency title("Figure 3.1")
+	histogram college,frequency title("Figure 3.1") xlabel(12(2)34) ylabel(0(2)12) ytick(1(2)13) start(12) width(2)
+	histogram college,frequency title("Figure 3.1") xlabel(12(2)34) ylabel(0(2)12) ytick(1(2)13) start(12) width(2) addlabel norm gap(15)
+	histogram college,by(region) percent bin(8) 
+	histogram college,percent bin(8) by(region,total) 
+
+*散点图
+	use states,clear
+	graph twoway scatter waste metro
+	graph twoway scatter waste metro ,msymbol(S) mcolor(purple) //个性化定制
+	graph twoway scatter waste metro [fweight = pop ],msymbol(Oh)  //加权重，用面积
 
  
+ 	sunflower waste metro , addplot(lfit waste metro) //葵花图
 
-
+ 	graph twoway scatter waste metro if region ==1 , mlabel(state)
+ 	graph twoway scatter waste metro , by(region) ylabel(,format(%3.0f)) xlabel(,format(%3.0f))
+*page 70
 
 
 

@@ -186,10 +186,30 @@
 
  	graph twoway scatter waste metro if region ==1 , mlabel(state)
  	graph twoway scatter waste metro , by(region) ylabel(,format(%3.0f)) xlabel(,format(%3.0f))
-*page 70
+
+ 	graph matrix miles metro income waste , half msymbol(oh)
+
+*曲线标绘图
+	use cod.dta,clear
+	graph twoway line cod canada year
+	graph twoway line cod canada year ,legend(label(1 "all nations")label(2 "Cananda") position(2) ring(0) rows(2)) ytitle("") 
+	*position(2) 将图例放在2点钟位置 ring(0) 将图例放在图中空白处 rows(2)将图例排成两行
+	graph twoway line TAC year ,connect(stepstair)
+
+*绘图暂时放下，因为暑假进行了相应的训练，但容易忘，暂时搁置
 
 
+*4概要统计及交互表
+	use VTtown,clear
+	sum lived
+	sum lived , d
 
+	tabstat lived, stats(mean range skewness)
+	tabstat lived, stats(mean sd median iqr n) by(gender)
+
+*正态性检验和数据转换
+	use VTtown,clear
+	sktest lived //原假设是服从正态分布
 
 
 

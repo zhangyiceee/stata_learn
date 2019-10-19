@@ -152,9 +152,38 @@ Last Modify : 	20191010
 	*Concatenate strings with +
 	gen newdocid = string(hospid) + "-" +doc_id
 	list newdocid hospid doc_id  in 1/10
+	*Regural expressions 正则表达式
+	gen regxdocid = regexs(1) if regexm(docid,"[0-9]-([0-9]+)")
+	*Encoding strings into numeric variables
+	encode cancerstage , gen(stage)
+	bro cancerstage stage
+	des stage
+	*Convert number variables stored as strings to numeric with destring 
+	tab wbc
+	replace wbc = "" if wbc == "not assessed"
+	destring wbc,replace
+	des wbc
+*Labels
+	*variable labels
+	label list //list the names and contents of existing value labels 
+	
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+** STATISTICAL COMPUTING SEMINARSREGRESSION WITH STATA***
 
 
 

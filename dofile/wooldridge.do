@@ -27,3 +27,4 @@ Last Modify : 	20191020
 *ex2.12
 	bcuse meap93,clear
 	reg math10 lnchprg
+	

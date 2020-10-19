@@ -1,0 +1,1882 @@
+<!DOCTYPE html>
+<html lang="zh-CN" class="">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="renderer" content="webkit">
+    <meta name="referrer" content="always">
+    <meta name="google-site-verification" content="ok0wCgT20tBBgo9_zat2iAcimtN4Ftf5ccsh092Xeyw" />
+    <title>
+  
+    中国机长的影评 (2268)
+</title>
+    
+  <meta name="baidu-site-verification" content="cZdR4xxR7RxmM4zE" />
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="Sun, 6 Mar 2005 01:00:00 GMT">
+  
+  
+  <meta name="keywords" content="评论,影评,中国机长,观后感">
+  <meta name="description" content="中国机长最新影评, 热门影评">
+  <link rel="alternate" href="/feed/subject/30295905/reviews" type="application/rss+xml" title="RSS">
+
+  <link href="https://img3.doubanio.com/f/shire/3e5dfc68b0f376484c50cf08a58bbca3700911dc/css/douban.css" rel="stylesheet" type="text/css">
+  <link href="https://img3.doubanio.com/f/shire/ae3f5a3e3085968370b1fc63afcecb22d3284848/css/separation/_all.css" rel="stylesheet" type="text/css">
+  <link href="https://img3.doubanio.com/f/zerkalo/4b7b75331a86c9c8275ac6b7306e820fc072e09a/css/init.css" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="https://img3.doubanio.com/misc/mixed_static/1e1127a9675e4125.css">
+  <style type="text/css"></style>
+
+  <script type="text/javascript">var _head_start = new Date();</script>
+  <script type="text/javascript" src="https://img3.doubanio.com/f/shire/7cdd59e1378f9ccea648a083fecf12d71ed66c2b/js/jquery-1.8.3.js"></script>
+  <script type="text/javascript" src="https://img3.doubanio.com/f/shire/77323ae72a612bba8b65f845491513ff3329b1bb/js/do.js" data-cfg-autoload="false"></script>
+
+  <script type="text/javascript" src="https://img3.doubanio.com/f/shire/5ecaf46d6954d5a30bc7d99be86ae34031646e00/js/douban.js"></script>
+  <script type="text/javascript" src="https://img3.doubanio.com/f/shire/afb2e24c7be373fa64d49d28de42719ec2262e1c/js/lib/moreurl.js"></script>
+  <script type="text/javascript" src="https://img3.doubanio.com/f/zerkalo/6df193f196533120434381e2761e9f780eb6f83c/dist/js/base.js"></script>
+  <script type="text/javascript" src="https://img3.doubanio.com/f/shire/0efdc63b77f895eaf85281fb0e44d435c6239a3f/js/separation/_all.js"></script>
+  
+  <link rel="stylesheet" href="https://img3.doubanio.com/f/zerkalo/ff9c316aef859acefea95831188aa88f934dc451/css/review/list.css" />
+  <link rel="stylesheet" href="https://img3.doubanio.com/dae/cdnlib/libs/LikeButton/1.0.5/style.min.css">
+
+  <script type="text/javascript"></script>
+
+    <link rel="shortcut icon" href="https://img3.doubanio.com/favicon.ico" type="image/x-icon">
+</head>
+
+<body>
+  
+  
+  <script type="text/javascript">var _body_start = new Date();</script>
+
+  
+
+    
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/1f8d15e/shire/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+<div id="db-global-nav" class="global-nav">
+  <div class="bd">
+    
+<div class="top-nav-info">
+  <a href="https://accounts.douban.com/passport/login?source=main" class="nav-login" rel="nofollow">登录/注册</a>
+</div>
+
+
+    <div class="top-nav-doubanapp">
+  <a href="https://www.douban.com/doubanapp/app?channel=top-nav" class="lnk-doubanapp">下载豆瓣客户端</a>
+  <div id="doubanapp-tip">
+    <a href="https://www.douban.com/doubanapp/app?channel=qipao" class="tip-link">豆瓣 <span class="version">6.0</span> 全新发布</a>
+    <a href="javascript: void 0;" class="tip-close">×</a>
+  </div>
+  <div id="top-nav-appintro" class="more-items">
+    <p class="appintro-title">豆瓣</p>
+    <p class="qrcode">扫码直接下载</p>
+    <div class="download">
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=iOS">iPhone</a>
+      <span>·</span>
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=Android" class="download-android">Android</a>
+    </div>
+  </div>
+</div>
+
+    
+
+
+<div class="global-nav-items">
+  <ul>
+    <li class="on">
+      <a href="https://www.douban.com"  data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-main&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣</a>
+    </li>
+    <li class="">
+      <a href="https://book.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-book&quot;,&quot;uid&quot;:&quot;0&quot;}">读书</a>
+    </li>
+    <li class="">
+      <a href="https://movie.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-movie&quot;,&quot;uid&quot;:&quot;0&quot;}">电影</a>
+    </li>
+    <li class="">
+      <a href="https://music.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-music&quot;,&quot;uid&quot;:&quot;0&quot;}">音乐</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/location" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-location&quot;,&quot;uid&quot;:&quot;0&quot;}">同城</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/group" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-group&quot;,&quot;uid&quot;:&quot;0&quot;}">小组</a>
+    </li>
+    <li class="">
+      <a href="https://read.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-read&quot;,&quot;uid&quot;:&quot;0&quot;}">阅读</a>
+    </li>
+    <li class="">
+      <a href="https://douban.fm&#47;?from_=shire_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-fm&quot;,&quot;uid&quot;:&quot;0&quot;}">FM</a>
+    </li>
+    <li class="">
+      <a href="https://time.douban.com&#47;?dt_time_source=douban-web_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-time&quot;,&quot;uid&quot;:&quot;0&quot;}">时间</a>
+    </li>
+    <li class="">
+      <a href="https://market.douban.com&#47;?utm_campaign=douban_top_nav&amp;utm_source=douban&amp;utm_medium=pc_web" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-market&quot;,&quot;uid&quot;:&quot;0&quot;}">豆品</a>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+<script>
+  ;window._GLOBAL_NAV = {
+    DOUBAN_URL: "https://www.douban.com",
+    N_NEW_NOTIS: 0,
+    N_NEW_DOUMAIL: 0
+  };
+</script>
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/1f8d15e/shire/bundle.js" defer="defer"></script>
+
+
+
+
+
+      
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/1f8d15e/movie/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+
+<div id="db-nav-movie" class="nav">
+  <div class="nav-wrap">
+  <div class="nav-primary">
+    <div class="nav-logo">
+      <a href="https:&#47;&#47;movie.douban.com">豆瓣电影</a>
+    </div>
+    <div class="nav-search">
+      <form action="https:&#47;&#47;search.douban.com&#47;movie/subject_search" method="get">
+        <fieldset>
+          <legend>搜索：</legend>
+          <label for="inp-query">
+          </label>
+          <div class="inp"><input id="inp-query" name="search_text" size="22" maxlength="60" placeholder="搜索电影、电视剧、综艺、影人" value=""></div>
+          <div class="inp-btn"><input type="submit" value="搜索"></div>
+          <input type="hidden" name="cat" value="1002" />
+        </fieldset>
+      </form>
+    </div>
+  </div>
+  </div>
+  <div class="nav-secondary">
+    
+
+<div class="nav-items">
+  <ul>
+    <li    ><a href="https://movie.douban.com/cinema/nowplaying/"
+     >影讯&购票</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/explore"
+     >选电影</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/tv/"
+     >电视剧</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/chart"
+     >排行榜</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/tag/"
+     >分类</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/review/best/"
+     >影评</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/annual/2019?source=navigation"
+     >2019年度榜单</a>
+    </li>
+    <li    ><a href="https://m.douban.com/standbyme/annual2019?source=navigation"
+            target="_blank"
+     >2019书影音报告</a>
+    </li>
+  </ul>
+</div>
+
+    <a href="https://movie.douban.com/annual/2019?source=movie_navigation" class="movieannual"></a>
+  </div>
+</div>
+
+<script id="suggResult" type="text/x-jquery-tmpl">
+  <li data-link="{{= url}}">
+            <a href="{{= url}}" onclick="moreurl(this, {from:'movie_search_sugg', query:'{{= keyword }}', subject_id:'{{= id}}', i: '{{= index}}', type: '{{= type}}'})">
+            <img src="{{= img}}" width="40" />
+            <p>
+                <em>{{= title}}</em>
+                {{if year}}
+                    <span>{{= year}}</span>
+                {{/if}}
+                {{if sub_title}}
+                    <br /><span>{{= sub_title}}</span>
+                {{/if}}
+                {{if address}}
+                    <br /><span>{{= address}}</span>
+                {{/if}}
+                {{if episode}}
+                    {{if episode=="unknow"}}
+                        <br /><span>集数未知</span>
+                    {{else}}
+                        <br /><span>共{{= episode}}集</span>
+                    {{/if}}
+                {{/if}}
+            </p>
+        </a>
+        </li>
+  </script>
+
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/1f8d15e/movie/bundle.js" defer="defer"></script>
+
+
+
+
+
+
+  
+  <div id="wrapper" class="movie-content review-wrapper">
+    
+
+    
+  <div id="content">
+    
+    <h1>中国机长的影评 (2268)</h1>
+
+    <div class="grid-16-8 clearfix">
+      
+      
+      <div class="article">
+        
+  
+    <ul class="top-tab clearfix">
+              
+  
+  <li class=" selected">    <a href="javascript:;">      <span>最受欢迎的</span>    </a>  </li>
+
+              
+  
+  <li class="">    <a href="?sort=time">      <span>最新发布的</span>    </a>  </li>
+
+
+      
+        <li class="dropdown">          <a href="javascript:;" class=""><span>按评星查看</span></a>
+          <ul class="droplist">
+            <li class="rating">              <a href="?rating=">                全部 (2268)              </a>            </li>
+            <li class="rating5">              <a href="?rating=5">                给5星的评论 (370)              </a>            </li>
+            <li class="rating4">              <a href="?rating=4">                给4星的评论 (720)              </a>            </li>
+            <li class="rating3">              <a href="?rating=3">                给3星的评论 (521)              </a>            </li>
+            <li class="rating2">              <a href="?rating=2">                给2星的评论 (200)              </a>            </li>
+            <li class="rating1">              <a href="?rating=1">                给1星的评论 (74)              </a>            </li>
+          </ul>
+        </li>
+
+    </ul>
+  
+
+
+
+<div class="review-list  ">
+        
+    
+
+        
+    
+    <div data-cid="10538463">
+        <div class="main review-item" id="10538463">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/reave/" class="avator">
+            <img width="24" height="24" src="https://img1.doubanio.com/icon/u1752908-27.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/reave/" class="name">谢谢你们的鱼</a>
+
+            <span class="allstar20 main-title-rating" title="较差"></span>
+
+        <span content="2019-09-30" class="main-meta">2019-09-30 09:57:44</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/10538463/">原型人物多厉害，本片就有多失败</a></h2>
+
+                <div id="review_10538463_short" class="review-short" data-rid="10538463">
+                    <div class="short-content">
+                            <p class="spoiler-tip">这篇影评可能有剧透</p>
+
+                        关于70周年的大陆电影市场我想大家也都心知肚明没啥好讨论的吧，与其说是主旋律电影最好的一年，不如说是电影主题呈现最单一的一年，哦，不只是电影，还有电视剧，总之，2019年这个从年初就开始的主旋律氛围延续到年底，是在是让人有些吃不消了。 刚刚摆脱了暑期档聒噪滥情的《...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-10538463-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_10538463_full" class="hidden">
+                    <div id="review_10538463_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="10538463" title="有用">
+                        <img src="https://img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-10538463">
+                                5154
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="10538463" title="没用">
+                        <img src="https://img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-10538463">
+                                868
+                        </span>
+                    </a>
+                    <a href="https://movie.douban.com/review/10538463/#comments" class="reply ">1753回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="10546958">
+        <div class="main review-item" id="10546958">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/MovieL/" class="avator">
+            <img width="24" height="24" src="https://img1.doubanio.com/icon/u1128221-98.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/MovieL/" class="name">木卫二</a>
+
+            <span class="allstar20 main-title-rating" title="较差"></span>
+
+        <span content="2019-10-02" class="main-meta">2019-10-02 21:50:04</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/10546958/">无法点赞</a></h2>
+
+                <div id="review_10546958_short" class="review-short" data-rid="10546958">
+                    <div class="short-content">
+
+                        聊《中国机长》之前，你总该看过国产的《紧急迫降》，或者米国的的《萨利机长》吧。 其实没看过也不打紧。因为《中国机长》是一部号称“中国骄傲”的电影，它只呈现了问题。至于问题在哪，由何产生，之后该怎么解决处理，机长副驾是否有心理障碍——统统无关紧要。 它是一部不...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-10546958-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_10546958_full" class="hidden">
+                    <div id="review_10546958_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="10546958" title="有用">
+                        <img src="https://img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-10546958">
+                                1273
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="10546958" title="没用">
+                        <img src="https://img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-10546958">
+                                147
+                        </span>
+                    </a>
+                    <a href="https://movie.douban.com/review/10546958/#comments" class="reply ">505回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="10539532">
+        <div class="main review-item" id="10539532">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/49419889/" class="avator">
+            <img width="24" height="24" src="https://img1.doubanio.com/icon/user_normal.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/49419889/" class="name">riverofchina</a>
+
+            <span class="allstar20 main-title-rating" title="较差"></span>
+
+        <span content="2019-09-30" class="main-meta">2019-09-30 17:16:08</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/10539532/">中国机长，好好的料给烧糊了</a></h2>
+
+                <div id="review_10539532_short" class="review-short" data-rid="10539532">
+                    <div class="short-content">
+                            <p class="spoiler-tip">这篇影评可能有剧透</p>
+
+                        以下内容涉及大量剧透，慎入！ 这应该是中国民航史上乃至世界民航史上的一大奇迹，高高原，右侧挡风碎裂脱落，FO飞出窗外，据我有限的知识，航空史上最接近的一次事故是1990年英航的5390航班由于维护人员安装风挡玻璃时使用不合规的螺栓造成挡风玻璃整块脱落，机长被吸出窗外贴...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-10539532-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_10539532_full" class="hidden">
+                    <div id="review_10539532_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="10539532" title="有用">
+                        <img src="https://img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-10539532">
+                                1340
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="10539532" title="没用">
+                        <img src="https://img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-10539532">
+                                95
+                        </span>
+                    </a>
+                    <a href="https://movie.douban.com/review/10539532/#comments" class="reply ">368回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="10539575">
+        <div class="main review-item" id="10539575">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/144795722/" class="avator">
+            <img width="24" height="24" src="https://img3.doubanio.com/icon/u144795722-3.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/144795722/" class="name">MASTER</a>
+
+            <span class="allstar20 main-title-rating" title="较差"></span>
+
+        <span content="2019-09-30" class="main-meta">2019-09-30 17:33:27</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/10539575/">作为一位民航签派员，来分析下影片中的几大硬伤</a></h2>
+
+                <div id="review_10539575_short" class="review-short" data-rid="10539575">
+                    <div class="short-content">
+
+                        首先，签派员是什么？其实相当于不把杆的飞行员，我们所做的工作是飞行计划的制作与签署飞行放行单并对航班进行全程监控，基于此基础上我分为两个部分来探讨下这部电影，一是专业知识，二是电影。 一、就专业知识而言，本片我一星都不想打，因为导演的想当然导致影片出现了许多...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-10539575-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_10539575_full" class="hidden">
+                    <div id="review_10539575_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="10539575" title="有用">
+                        <img src="https://img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-10539575">
+                                463
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="10539575" title="没用">
+                        <img src="https://img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-10539575">
+                                15
+                        </span>
+                    </a>
+                    <a href="https://movie.douban.com/review/10539575/#comments" class="reply ">98回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="10552130">
+        <div class="main review-item" id="10552130">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/lingrui1995/" class="avator">
+            <img width="24" height="24" src="https://img1.doubanio.com/icon/u63688511-18.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/lingrui1995/" class="name">凌睿</a>
+
+            <span class="allstar20 main-title-rating" title="较差"></span>
+
+        <span content="2019-10-04" class="main-meta">2019-10-04 19:01:19</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/10552130/">《中国机长》配不上中国机长</a></h2>
+
+                <div id="review_10552130_short" class="review-short" data-rid="10552130">
+                    <div class="short-content">
+                            <p class="spoiler-tip">这篇影评可能有剧透</p>
+
+                        很多网友说，《中国机长》是山寨版《萨利机长》。 其实确定拍摄《中国机长》后，刘伟强第一时间去洛杉矶找了当初给《萨利机长》做特效的公司，就是为了避免被当成山寨版《萨利机长》。 态度是端正的，但是能力有限，拍出来比《萨利机长》差太多了。 倒不至于是山寨版《萨利机长...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-10552130-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_10552130_full" class="hidden">
+                    <div id="review_10552130_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="10552130" title="有用">
+                        <img src="https://img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-10552130">
+                                486
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="10552130" title="没用">
+                        <img src="https://img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-10552130">
+                                39
+                        </span>
+                    </a>
+                    <a href="https://movie.douban.com/review/10552130/#comments" class="reply ">126回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="10539329">
+        <div class="main review-item" id="10539329">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/48369193/" class="avator">
+            <img width="24" height="24" src="https://img9.doubanio.com/icon/u48369193-16.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/48369193/" class="name">二十二岛主</a>
+
+            <span class="allstar20 main-title-rating" title="较差"></span>
+
+        <span content="2019-09-30" class="main-meta">2019-09-30 16:22:41</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/10539329/">看似华丽的《中国机长》，不过是半出好戏</a></h2>
+
+                <div id="review_10539329_short" class="review-short" data-rid="10539329">
+                    <div class="short-content">
+                            <p class="spoiler-tip">这篇影评可能有剧透</p>
+
+                        半出好戏，这是我对于《中国机长》的评价，也是对于博纳影业今年推出的“中国骄傲”三部曲（《烈火英雄》《决胜时刻》《中国机长》）的最终评价，虽然这三部电影本身并无联系，完全是商业包装，但既然被放在一个体系中，那不妨一起来说说。 既然不是“一出好戏”，说明有些环节...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-10539329-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_10539329_full" class="hidden">
+                    <div id="review_10539329_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="10539329" title="有用">
+                        <img src="https://img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-10539329">
+                                597
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="10539329" title="没用">
+                        <img src="https://img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-10539329">
+                                116
+                        </span>
+                    </a>
+                    <a href="https://movie.douban.com/review/10539329/#comments" class="reply ">179回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="10538212">
+        <div class="main review-item" id="10538212">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/164590861/" class="avator">
+            <img width="24" height="24" src="https://img3.doubanio.com/icon/u164590861-2.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/164590861/" class="name">PsychRay</a>
+
+            <span class="allstar20 main-title-rating" title="较差"></span>
+
+        <span content="2019-09-30" class="main-meta">2019-09-30 05:15:33</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/10538212/">四川8633不想回答劉偉強</a></h2>
+
+                <div id="review_10538212_short" class="review-short" data-rid="10538212">
+                    <div class="short-content">
+                            <p class="spoiler-tip">这篇影评可能有剧透</p>
+
+                        劇透預警。 看了中國機長點映之後崩潰了。 它曾經是國慶檔我最期待的片子。 川航8633誒，世界民航史的奇跡誒。 結果就拍成這樣。 剪輯亂七八糟，配樂廉價無比，編劇沒頭沒尾，除此之外還要給一群帶資進組的人塞各種各樣的無效鏡頭。 這個片子我都不知道從哪裡吐槽起，我還是直...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-10538212-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_10538212_full" class="hidden">
+                    <div id="review_10538212_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="10538212" title="有用">
+                        <img src="https://img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-10538212">
+                                203
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="10538212" title="没用">
+                        <img src="https://img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-10538212">
+                                24
+                        </span>
+                    </a>
+                    <a href="https://movie.douban.com/review/10538212/#comments" class="reply ">87回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="10535280">
+        <div class="main review-item" id="10535280">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/47314061/" class="avator">
+            <img width="24" height="24" src="https://img3.doubanio.com/icon/u47314061-2.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/47314061/" class="name">惊蛰</a>
+
+            <span class="allstar20 main-title-rating" title="较差"></span>
+
+        <span content="2019-09-28" class="main-meta">2019-09-28 23:03:36</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/10535280/">电影辜负了这么棒的题材</a></h2>
+
+                <div id="review_10535280_short" class="review-short" data-rid="10535280">
+                    <div class="short-content">
+
+                        这部电影符不符合事实这事相信当时关注过的人都知道，为什么画蛇添足的加了一段穿越危险云层的桥段，我想可能导演想增加戏剧性，没必要，真的没必要。 事件本身在世界民航史上也堪称奇迹了，非要在这基础上神化，只会降低可信度，很多人说这是电影不是纪录片，改编一些情节没问...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-10535280-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_10535280_full" class="hidden">
+                    <div id="review_10535280_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="10535280" title="有用">
+                        <img src="https://img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-10535280">
+                                150
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="10535280" title="没用">
+                        <img src="https://img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-10535280">
+                                10
+                        </span>
+                    </a>
+                    <a href="https://movie.douban.com/review/10535280/#comments" class="reply ">31回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="10538260">
+        <div class="main review-item" id="10538260">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/dreamfox/" class="avator">
+            <img width="24" height="24" src="https://img3.doubanio.com/icon/u2297669-12.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/dreamfox/" class="name">乌鸦火堂</a>
+
+            <span class="allstar40 main-title-rating" title="推荐"></span>
+
+        <span content="2019-09-30" class="main-meta">2019-09-30 07:31:05</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/10538260/">9800米高空的神操作！10个关键词全方位了解《中国机长》</a></h2>
+
+                <div id="review_10538260_short" class="review-short" data-rid="10538260">
+                    <div class="short-content">
+
+                        这类电影还是要交给会拍的导演、会演的演员。 真实感 《中国机长》从题材上来说还是应该属于灾难片，但电影中的“灾难”并没有发生，因为机长力挽狂澜排除掉了。所以可以将其定义为“突发事件类”甚至“行业类”电影，跟前苏联的《机组乘务员》、当年在正大剧场播出的《九霄惊...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-10538260-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_10538260_full" class="hidden">
+                    <div id="review_10538260_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="10538260" title="有用">
+                        <img src="https://img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-10538260">
+                                778
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="10538260" title="没用">
+                        <img src="https://img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-10538260">
+                                78
+                        </span>
+                    </a>
+                    <a href="https://movie.douban.com/review/10538260/#comments" class="reply ">106回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="10555785">
+        <div class="main review-item" id="10555785">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/170472885/" class="avator">
+            <img width="24" height="24" src="https://img3.doubanio.com/icon/u170472885-1.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/170472885/" class="name">Anna安娜HLL</a>
+
+            <span class="allstar20 main-title-rating" title="较差"></span>
+
+        <span content="2019-10-05" class="main-meta">2019-10-05 23:19:52</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/10555785/">这辈子看过最好看的电影，大家都去看啊啊</a></h2>
+
+                <div id="review_10555785_short" class="review-short" data-rid="10555785">
+                    <div class="short-content">
+                            <p class="spoiler-tip">这篇影评可能有剧透</p>
+
+                        两颗星，一颗给原型，一颗给李现。我觉得我都太大方了呢。 没看之前就很期待，在看之前先看了网上评论略逊色于《中国机长》的《我和我的祖国》。觉得还不错，心里想：那《中国机长》岂不是更好看？然后携家带口买了三张票兴冲冲去看了，甚至还带了弟弟，觉得这种开飞机的片子肯...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-10555785-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_10555785_full" class="hidden">
+                    <div id="review_10555785_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="10555785" title="有用">
+                        <img src="https://img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-10555785">
+                                118
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="10555785" title="没用">
+                        <img src="https://img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-10555785">
+                                19
+                        </span>
+                    </a>
+                    <a href="https://movie.douban.com/review/10555785/#comments" class="reply ">73回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="10549759">
+        <div class="main review-item" id="10549759">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/shangdixiaole/" class="avator">
+            <img width="24" height="24" src="https://img3.doubanio.com/icon/u60892551-10.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/shangdixiaole/" class="name">三千岁</a>
+
+            <span class="allstar20 main-title-rating" title="较差"></span>
+
+        <span content="2019-10-03" class="main-meta">2019-10-03 21:38:28</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/10549759/">我们拍好片的概率确实比空难概率还要低</a></h2>
+
+                <div id="review_10549759_short" class="review-short" data-rid="10549759">
+                    <div class="short-content">
+                            <p class="spoiler-tip">这篇影评可能有剧透</p>
+
+                        文|三千岁 今天，我们一起聊一聊电影《中国机长》。 本以为我们的视角能从“空姐的诱惑”转向“机长的睿智”，结果，还是收获了腿白、腿细、腿长的错觉。 这一事件是有原型的，四川航空3U8633重庆飞往拉萨的航班在飞行途中挡风玻璃裂开，机长刘传健英明抉择，决定返航，将飞机...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-10549759-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_10549759_full" class="hidden">
+                    <div id="review_10549759_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="10549759" title="有用">
+                        <img src="https://img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-10549759">
+                                80
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="10549759" title="没用">
+                        <img src="https://img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-10549759">
+                                12
+                        </span>
+                    </a>
+                    <a href="https://movie.douban.com/review/10549759/#comments" class="reply ">42回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="10538549">
+        <div class="main review-item" id="10538549">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/thisisdaisy/" class="avator">
+            <img width="24" height="24" src="https://img1.doubanio.com/icon/u2250061-18.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/thisisdaisy/" class="name">兔牙小姐</a>
+
+            <span class="allstar50 main-title-rating" title="力荐"></span>
+
+        <span content="2019-09-30" class="main-meta">2019-09-30 10:46:35</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/10538549/">老婆，我骗了你，其实我…</a></h2>
+
+                <div id="review_10538549_short" class="review-short" data-rid="10538549">
+                    <div class="short-content">
+
+                        “老婆，我和你说一句实话，我骗了你。” “我早就晓得了。” 打离婚官司之前，这句话是女方最得意的一句回答。 “我早就晓得了。” 然后“啪”地一声甩出一沓证据，一段录音，一份离婚协议书。 看到这儿，你可能会觉得是在看狗血电视剧，但如果我告诉你，这是一对夫妻在临死前...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-10538549-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_10538549_full" class="hidden">
+                    <div id="review_10538549_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="10538549" title="有用">
+                        <img src="https://img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-10538549">
+                                478
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="10538549" title="没用">
+                        <img src="https://img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-10538549">
+                                14
+                        </span>
+                    </a>
+                    <a href="https://movie.douban.com/review/10538549/#comments" class="reply ">17回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="10542280">
+        <div class="main review-item" id="10542280">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/gorfee/" class="avator">
+            <img width="24" height="24" src="https://img1.doubanio.com/icon/u1145618-48.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/gorfee/" class="name">古尔齐亚</a>
+
+            <span class="allstar40 main-title-rating" title="推荐"></span>
+
+        <span content="2019-10-01" class="main-meta">2019-10-01 09:58:56</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/10542280/">敬畏生命，不是一句空谈</a></h2>
+
+                <div id="review_10542280_short" class="review-short" data-rid="10542280">
+                    <div class="short-content">
+
+                        在我心中，有许多职业是很不同的。 通常来说，大多数职业在面对危机和挑战时，即便出错，后果顶多是失去一单生意，少签一个合同，扣掉一些奖金，或是挨领导和老板几句骂。 但有些职业面临的后果却严重得多，可能是上百人的粉身碎骨，百余个家庭的永生之痛，无可挽回，万劫不复...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-10542280-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_10542280_full" class="hidden">
+                    <div id="review_10542280_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="10542280" title="有用">
+                        <img src="https://img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-10542280">
+                                56
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="10542280" title="没用">
+                        <img src="https://img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-10542280">
+                                5
+                        </span>
+                    </a>
+                    <a href="https://movie.douban.com/review/10542280/#comments" class="reply ">2回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="10536560">
+        <div class="main review-item" id="10536560">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/whisky515648684/" class="avator">
+            <img width="24" height="24" src="https://img3.doubanio.com/icon/u32718444-3.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/whisky515648684/" class="name">郗砚</a>
+
+
+        <span content="2019-09-29" class="main-meta">2019-09-29 13:06:20</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/10536560/">只是普通的一天嘛，生活很美好的（大篇幅剧透）</a></h2>
+
+                <div id="review_10536560_short" class="review-short" data-rid="10536560">
+                    <div class="short-content">
+                            <p class="spoiler-tip">这篇影评可能有剧透</p>
+
+                        昨天看的点映。 这部电影我也看了很多评论了，很多人觉得一般，说没拍出人性，没拍出冲突，感觉很失望。 但我个人认为，这部电影做得最好的，就是不拍人性，不拍冲突。 电影给我的感觉是，这就是普通的一天，只是发生了一件不普通的事。 以下涉及剧透，慎点。 电影一开始，就是...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-10536560-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_10536560_full" class="hidden">
+                    <div id="review_10536560_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="10536560" title="有用">
+                        <img src="https://img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-10536560">
+                                36
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="10536560" title="没用">
+                        <img src="https://img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-10536560">
+                                2
+                        </span>
+                    </a>
+                    <a href="https://movie.douban.com/review/10536560/#comments" class="reply ">7回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="10547477">
+        <div class="main review-item" id="10547477">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/203425350/" class="avator">
+            <img width="24" height="24" src="https://img3.doubanio.com/icon/u203425350-1.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/203425350/" class="name">乐途全球旅行🌞</a>
+
+            <span class="allstar20 main-title-rating" title="较差"></span>
+
+        <span content="2019-10-02" class="main-meta">2019-10-02 23:52:49</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/10547477/">实属烂片</a></h2>
+
+                <div id="review_10547477_short" class="review-short" data-rid="10547477">
+                    <div class="short-content">
+
+                        非常不怎么样。 而且这片子上影时间非常微妙刚刚七十周年，正能量很爆棚，讲的故事呢也非常红色，但是别让这些蒙蔽了你的眼睛，最搞笑的是上次看到一个评论，说这个片是烂片的就是不爱国，我无言以对。抛开其他就从电影本身评价：没必要跑去电影院看。 电影出发点是好的，看个...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-10547477-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_10547477_full" class="hidden">
+                    <div id="review_10547477_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="10547477" title="有用">
+                        <img src="https://img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-10547477">
+                                67
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="10547477" title="没用">
+                        <img src="https://img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-10547477">
+                                11
+                        </span>
+                    </a>
+                    <a href="https://movie.douban.com/review/10547477/#comments" class="reply ">21回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="10539510">
+        <div class="main review-item" id="10539510">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/59018049/" class="avator">
+            <img width="24" height="24" src="https://img3.doubanio.com/icon/u59018049-2.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/59018049/" class="name">walking</a>
+
+            <span class="allstar40 main-title-rating" title="推荐"></span>
+
+        <span content="2019-09-30" class="main-meta">2019-09-30 17:09:32</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/10539510/">华丽外表，空洞内涵。</a></h2>
+
+                <div id="review_10539510_short" class="review-short" data-rid="10539510">
+                    <div class="short-content">
+
+                        整部片子可以说是很成功的，视效上，故事节奏上，还有人物刻画，演员的表演都是非常优秀的，非常具有代入感，也有笑点和泪点，这些就已经可以达到及格了，另外还有各种熟脸各种客串，有一些惊喜的成分，作为一部商业片的话能达到七分了。遗憾的部分其实也是整个片子的核心，就...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-10539510-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_10539510_full" class="hidden">
+                    <div id="review_10539510_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="10539510" title="有用">
+                        <img src="https://img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-10539510">
+                                26
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="10539510" title="没用">
+                        <img src="https://img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-10539510">
+                                13
+                        </span>
+                    </a>
+                    <a href="https://movie.douban.com/review/10539510/#comments" class="reply ">18回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="10536406">
+        <div class="main review-item" id="10536406">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/178095886/" class="avator">
+            <img width="24" height="24" src="https://img3.doubanio.com/icon/u178095886-1.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/178095886/" class="name">注销</a>
+
+
+        <span content="2019-09-29" class="main-meta">2019-09-29 11:56:10</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/10536406/">平凡英雄的奇迹瞬间</a></h2>
+
+                <div id="review_10536406_short" class="review-short" data-rid="10536406">
+                    <div class="short-content">
+
+                        世界民航史上，有三起著名的迫降成功案例。1990年英航5390航班，左侧风挡玻璃脱落，机长被吸出窗外，副驾将飞机安全开回；1998年东航586班机，起落架故障，紧急迫降上海，全机人员安全；2009年美航1549航班，起飞后遭遇鸟击，双发停车，安全迫降在哈德逊河上。这三起壮举先后被...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-10536406-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_10536406_full" class="hidden">
+                    <div id="review_10536406_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="10536406" title="有用">
+                        <img src="https://img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-10536406">
+                                29
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="10536406" title="没用">
+                        <img src="https://img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-10536406">
+                                3
+                        </span>
+                    </a>
+                    <a href="https://movie.douban.com/review/10536406/#comments" class="reply ">5回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="10542901">
+        <div class="main review-item" id="10542901">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/zhangaiyin/" class="avator">
+            <img width="24" height="24" src="https://img9.doubanio.com/icon/u1355591-44.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/zhangaiyin/" class="name">影随茵动</a>
+
+            <span class="allstar40 main-title-rating" title="推荐"></span>
+
+        <span content="2019-10-01" class="main-meta">2019-10-01 16:20:30</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/10542901/">敬畏生命，敬畏他人，敬畏自己</a></h2>
+
+                <div id="review_10542901_short" class="review-short" data-rid="10542901">
+                    <div class="short-content">
+
+                        2011年，因为工作的原因，我从北京多次前往重庆、成都，第一次有机会乘坐川航（心里忍不住生出对不同航空公司的比较），也是第一次遇到过比较强烈的气流，一个人的惶恐不言而喻。本质上，我自然没有葛优、鹿晗那种强烈的心理伴随生理上的恐惧，但是，每次坐飞机前心理上还是非...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-10542901-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_10542901_full" class="hidden">
+                    <div id="review_10542901_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="10542901" title="有用">
+                        <img src="https://img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-10542901">
+                                60
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="10542901" title="没用">
+                        <img src="https://img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-10542901">
+                                6
+                        </span>
+                    </a>
+                    <a href="https://movie.douban.com/review/10542901/#comments" class="reply ">2回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="12128398">
+        <div class="main review-item" id="12128398">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/2744224/" class="avator">
+            <img width="24" height="24" src="https://img1.doubanio.com/icon/u2744224-39.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/2744224/" class="name">小加</a>
+
+            <span class="allstar30 main-title-rating" title="还行"></span>
+
+        <span content="2019-12-28" class="main-meta">2019-12-28 21:14:51</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/12128398/">无题</a></h2>
+
+                <div id="review_12128398_short" class="review-short" data-rid="12128398">
+                    <div class="short-content">
+
+                        可能国内实在不适合拍灾难片吧。这种真实题材的影片都拍的毫无悬念。 真实事件当然是很惊险，但是作为电影，实在是太肤浅了。 铺垫就不说了。在事故发生的时候，机长为什么采取那些行为，其实真的可以铺垫展开的。毕竟大部分老百姓并不了解他们的训练是包含了什么。明明是副机...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-12128398-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_12128398_full" class="hidden">
+                    <div id="review_12128398_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="12128398" title="有用">
+                        <img src="https://img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-12128398">
+                                2
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="12128398" title="没用">
+                        <img src="https://img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-12128398">
+                                1
+                        </span>
+                    </a>
+                    <a href="https://movie.douban.com/review/12128398/#comments" class="reply ">0回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="10549180">
+        <div class="main review-item" id="10549180">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/68541733/" class="avator">
+            <img width="24" height="24" src="https://img9.doubanio.com/icon/u68541733-4.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/68541733/" class="name">范海鑫</a>
+
+            <span class="allstar40 main-title-rating" title="推荐"></span>
+
+        <span content="2019-10-03" class="main-meta">2019-10-03 17:54:34</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/10549180/">这片儿与《攀登者》和《鬼吹灯》有联动</a></h2>
+
+                <div id="review_10549180_short" class="review-short" data-rid="10549180">
+                    <div class="short-content">
+
+                        《中国队长》，哦不，《中国机长》，根据2018年5月14日四川航空3U8633航班机组成功处置特情真实事件改编。 [视频] 是主旋律和商业性完美结合的典范，视听效果一流 从起飞准备到突发事故处置各种细节完美还原真实事件，俩字——专业 虽然名叫中国机长，但同舱的空乘、地面的塔台...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-10549180-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_10549180_full" class="hidden">
+                    <div id="review_10549180_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="10549180" title="有用">
+                        <img src="https://img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-10549180">
+                                3
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="10549180" title="没用">
+                        <img src="https://img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-10549180">
+                                2
+                        </span>
+                    </a>
+                    <a href="https://movie.douban.com/review/10549180/#comments" class="reply ">3回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+    
+
+    
+
+    <script type="text/javascript" src="https://img3.doubanio.com/misc/mixed_static/4a0db4cd03e7a75c.js"></script>
+    <!-- COLLECTED CSS -->
+</div>
+
+
+
+
+
+
+
+
+
+  
+  
+    
+    
+
+    
+        <div class="paginator">
+        <span class="prev">
+            &lt;前页
+        </span>
+        
+        
+
+                <span class="thispage" data-total-page="114">1</span>
+                
+            <a href="?start=20" >2</a>
+        
+                
+            <a href="?start=40" >3</a>
+        
+                
+            <a href="?start=60" >4</a>
+        
+                
+            <a href="?start=80" >5</a>
+        
+                
+            <a href="?start=100" >6</a>
+        
+                
+            <a href="?start=120" >7</a>
+        
+                
+            <a href="?start=140" >8</a>
+        
+                
+            <a href="?start=160" >9</a>
+        
+            <span class="break">...</span>
+                
+            <a href="?start=2240" >113</a>
+        
+            <a href="?start=2260" >114</a>
+        
+        <span class="next">
+            <link rel="next" href="?start=20"/>
+            <a href="?start=20" >后页&gt;</a>
+        </span>
+
+            <span class="count">(共2268条)</span>
+        </div>
+
+
+
+      </div>
+      <div class="aside">
+        
+  
+
+
+
+
+  <div class="sidebar-info-wrapper">
+    <div class="sidebar-copy">
+      
+
+
+
+
+  <p>如果你觉得一篇评论对你有帮助，请你点击“有用”。你的投票直接决定哪些评论出现在豆瓣首页和“豆瓣最受欢迎的评论”里，以及在书、电影和音乐介绍页里评论的排序。</p>
+  <p>所有“没用”的点击都是匿名的。</p>
+
+    </div>
+
+      
+  <div class="subject-title">
+    <a href="https://movie.douban.com/subject/30295905/">&gt;&nbsp;中国机长</a>
+  </div>
+
+  <div class="subject-img">
+    <a href="https://movie.douban.com/subject/30295905/">
+      <img alt="中国机长" title="中国机长"
+           src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2568258113.jpg" rel="v:image">
+    </a>
+  </div>
+
+    <div class="subject-info movie-info">
+      <ul class="info-list">
+          
+  
+  <li class="info-item">
+    <span class="info-item-key">导演:</span>
+    <span class="info-item-val">刘伟强</span>
+  </li>
+
+          
+  
+  <li class="info-item">
+    <span class="info-item-key">主演:</span>
+    <span class="info-item-val">张涵予 / 欧豪 / 杜江</span>
+  </li>
+
+          
+  
+  <li class="info-item">
+    <span class="info-item-key">类型:</span>
+    <span class="info-item-val">剧情 / 传记 / 灾难</span>
+  </li>
+
+          
+  
+  <li class="info-item">
+    <span class="info-item-key">地区:</span>
+    <span class="info-item-val">中国大陆</span>
+  </li>
+
+          
+  
+  <li class="info-item">
+    <span class="info-item-key">上映:</span>
+    <span class="info-item-val">2019-09-30(中国大陆)</span>
+  </li>
+
+      </ul>
+    </div>
+
+
+  </div>
+
+    <!-- douban ad begin -->
+    <div id="dale_movie_subject_reviews_middle_right"></div>
+    <!-- douban ad end -->
+
+    
+  
+  
+<p class="pl">
+  <span class="feed">    <a href="/feed/subject/30295905/reviews">订阅中国机长的影评</a>  </span>
+</p>
+
+
+
+    <!-- douban ad begin -->
+    
+
+
+
+
+
+<div class="mobile-app-entrance block5 app-movie">
+    <a class="entrance-link" href="https://www.douban.com/doubanapp/frodo">
+        <div class="entrance-qrcode">
+            <img src="https://img3.doubanio.com/f/zerkalo/a02f6ed325fc52e220f299d51e730c422e2bcd16/pics/douban_app_ad/qrcode.png" alt="扫码下载豆瓣 App" width="80" height="80" />
+        </div>
+        <div class="entrance-info">
+            <span class="app-icon icon-movie"></span>
+            <span class="main-title">豆瓣</span>
+            <span class="sub-title">膝盖献给神点评</span>
+        </div>
+    </a>
+</div>
+
+    <!-- douban ad end -->
+
+
+
+
+      </div>
+      <div class="extra">
+        
+      </div>
+    </div>
+  </div>
+
+    
+  <div id="footer">
+      <div class="footer-extra"></div>
+    
+<span id="icp" class="fleft gray-link">
+    &copy; 2005－2020 douban.com, all rights reserved 北京豆网科技有限公司
+</span>
+
+<a href="https://www.douban.com/hnypt/variformcyst.py" style="display: none;"></a>
+
+<span class="fright">
+    <a href="https://www.douban.com/about">关于豆瓣</a>
+    · <a href="https://www.douban.com/jobs">在豆瓣工作</a>
+    · <a href="https://www.douban.com/about?topic=contactus">联系我们</a>
+    · <a href="https://www.douban.com/about/legal">法律声明</a>
+    
+    · <a href="https://help.douban.com/?app=movie" target="_blank">帮助中心</a>
+    · <a href="https://www.douban.com/doubanapp/">移动应用</a>
+    · <a href="https://www.douban.com/partner/">豆瓣广告</a>
+</span>
+
+  </div>
+
+  </div>
+    
+  
+  
+  
+
+  
+  
+
+  
+
+
+
+
+  
+    
+
+  <!-- COLLECTED JS -->
+  
+  <!-- douban ad begin -->
+  
+  
+
+
+
+
+    
+<script type="text/javascript">
+    (function (global) {
+        var newNode = global.document.createElement('script'),
+            existingNode = global.document.getElementsByTagName('script')[0],
+            adSource = '//erebor.douban.com/',
+            userId = '',
+            browserId = 'WttA2n+ckvM',
+            criteria = '3:/subject/30295905/reviews?start=0',
+            preview = '',
+            debug = false,
+            adSlots = ['dale_movie_subject_reviews_middle_right'];
+
+        global.DoubanAdRequest = {src: adSource, uid: userId, bid: browserId, crtr: criteria, prv: preview, debug: debug};
+        global.DoubanAdSlots = (global.DoubanAdSlots || []).concat(adSlots);
+
+        newNode.setAttribute('type', 'text/javascript');
+        newNode.setAttribute('src', '//img1.doubanio.com/ZGJhYzhmaC9mL2FkanMvOTY0ZDI5MjQ5N2ViOGI2ZGU3ODdkYmI3YTk3NDliMTJlMzNmMGNlYy9hZC5yZWxlYXNlLmpz');
+        newNode.setAttribute('async', true);
+        existingNode.parentNode.insertBefore(newNode, existingNode);
+    })(this);
+</script>
+
+
+
+
+
+
+
+
+
+
+  <!-- douban ad end -->
+
+  
+  
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+var _paq = _paq || [];
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {
+    var p=(('https:' == document.location.protocol) ? 'https' : 'http'), u=p+'://fundin.douban.com/';
+    _paq.push(['setTrackerUrl', u+'piwik']);
+    _paq.push(['setSiteId', '100001']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript';
+    g.defer=true;
+    g.async=true;
+    g.src=p+'://img3.doubanio.com/dae/fundin/piwik.js';
+    s.parentNode.insertBefore(g,s);
+})();
+</script>
+
+<script type="text/javascript">
+var setMethodWithNs = function(namespace) {
+  var ns = namespace ? namespace + '.' : ''
+    , fn = function(string) {
+        if(!ns) {return string}
+        return ns + string
+      }
+  return fn
+}
+
+var gaWithNamespace = function(fn, namespace) {
+  var method = setMethodWithNs(namespace)
+  fn.call(this, method)
+}
+
+var _gaq = _gaq || []
+  , accounts = [
+      { id: 'UA-7019765-1', namespace: 'douban' }
+    , { id: 'UA-7019765-19', namespace: '' }
+    ]
+  , gaInit = function(account) {
+      gaWithNamespace(function(method) {
+        gaInitFn.call(this, method, account)
+      }, account.namespace)
+    }
+  , gaInitFn = function(method, account) {
+      _gaq.push([method('_setAccount'), account.id]);
+      _gaq.push([method('_setSampleRate'), '5']);
+
+      
+  _gaq.push([method('_addOrganic'), 'google', 'q'])
+  _gaq.push([method('_addOrganic'), 'baidu', 'wd'])
+  _gaq.push([method('_addOrganic'), 'soso', 'w'])
+  _gaq.push([method('_addOrganic'), 'youdao', 'q'])
+  _gaq.push([method('_addOrganic'), 'so.360.cn', 'q'])
+  _gaq.push([method('_addOrganic'), 'sogou', 'query'])
+  if (account.namespace) {
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣'])
+    _gaq.push([method('_addIgnoredOrganic'), 'douban'])
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣网'])
+    _gaq.push([method('_addIgnoredOrganic'), 'www.douban.com'])
+  }
+
+      if (account.namespace === 'douban') {
+        _gaq.push([method('_setDomainName'), '.douban.com'])
+      }
+
+        _gaq.push([method('_setCustomVar'), 1, 'responsive_view_mode', 'desktop', 3])
+
+        _gaq.push([method('_setCustomVar'), 2, 'login_status', '0', 2]);
+
+      _gaq.push([method('_trackPageview')])
+    }
+
+for(var i = 0, l = accounts.length; i < l; i++) {
+  var account = accounts[i]
+  gaInit(account)
+}
+
+
+;(function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+})()
+</script>
+
+
+
+
+
+
+
+
+  <!-- dae-web-zerkalo--default-699fd9ccc4-v6ft2-->
+
+  <script>_SPLITTEST=''</script>
+</body>
+
+</html>
+
+

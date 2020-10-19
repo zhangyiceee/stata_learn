@@ -22,10 +22,10 @@ Last Modify : 	20200126
 *15：固定效应
 	use "traffic.dta",clear 
 	xtset state year
-
-	xtdes
+	xtdes //显示面板数据的结构 断面板
+	xtsum //显示组内、组间、与整体的统计指标
 	xtsum fatal beertax spircons unrate perinck state year
-	xtline fatal
+	xtline fatal  //对每个个体分别显示该变量的时间序列图
 
 	*混合回归
 	reg fatal beertax spircons unrate perinck,vce(cluster state)
@@ -60,6 +60,9 @@ Last Modify : 	20200126
 	use cardkrueger1994,clear
 
 
+*17.4 面板二值选择模型的stata
+
+	use uprising,clear
 
 
 

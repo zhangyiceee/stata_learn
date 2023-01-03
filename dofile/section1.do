@@ -3,7 +3,7 @@
 	set more off
 
 *note ：每次做练习请先运行下面两行；run the next two row first
-	cd "/Users/zhangyi/Documents/GitHub/statagraph/data"
+	cd "/Users/zhangyi/Documents/GitHub/stata_learn/data"
 	global outdir "/Users/zhangyi/Documents/GitHub/statagraph/output"
 
 *page2
